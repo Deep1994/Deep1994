@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🏫 I’m pursuing a PhD in Computer Science at Nanjing University, supervised by Prof. [Shujian Huang](http://nlp.nju.edu.cn/huangsj/).  
 - 🔬 I’m currently interested in LLMs Safety (Large Language Models Safety).  
-- 📚 My blog: [My Blog](https://your-blog-url.com)  <!-- 可替换为中文博客名+链接 -->  
+- 📚 My blog: [My Blog](https://)  <!-- 可替换为中文博客名+链接 -->  
 - 🤝 Contact me: dingpeng@smail.nju.edu.cn  
 
 <!--
