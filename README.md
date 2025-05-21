@@ -1,4 +1,4 @@
-## Hi there 👋
+### 👋 Hi, I'm Peng Ding (丁鹏)!
 
 <!--
 **Deep1994/Deep1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### 👋 Hi, I'm Peng Ding (丁鹏)!
 
 - 🏫 I’m pursuing a PhD in Computer Science at Nanjing University, supervised by Prof. [Shujian Huang](http://nlp.nju.edu.cn/huangsj/).  
 - 🔬 I’m currently interested in LLMs safety (jailbreak & defense, interpretability, etc.).
