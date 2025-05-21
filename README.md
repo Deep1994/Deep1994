@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### 👋 Hi, I'm Peng Ding (丁鹏)!
 
 - 🏫 I’m pursuing a PhD in Computer Science at Nanjing University, supervised by Prof. [Shujian Huang](http://nlp.nju.edu.cn/huangsj/).  
-- 🔬 I’m currently interested in AI Safety.  
-- 📚 My blog: [My Blog](https://)  <!-- 可替换为中文博客名+链接 -->  
+- 🔬 I’m currently interested in LLMs safety (jailbreak & defense, interpretability, etc.).
+- 📚 My blog: [https://deep1994.github.io](https://deep1994.github.io/)  <!-- 可替换为中文博客名+链接 -->  
 - 🤝 Contact me: dingpeng@smail.nju.edu.cn  
 
 <!--
